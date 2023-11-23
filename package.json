@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "Victor Yoalli",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "esbuild": "^0.12.22"
   },
   "scripts": {
